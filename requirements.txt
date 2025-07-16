@@ -1,0 +1,8 @@
+streamlit
+openai
+langchain
+langchain-community
+langchain-openai
+langchain-core
+langchain-experimental
+langchain-text-splitters
