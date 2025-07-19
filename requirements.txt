@@ -6,3 +6,4 @@ langchain-openai
 langchain-core
 langchain-experimental
 langchain-text-splitters
+langgraph
